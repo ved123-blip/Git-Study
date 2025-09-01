@@ -1,2 +1,1 @@
-console.log("hello world");
-console.log("new git repo created");
+console.log("ne index.js file");
